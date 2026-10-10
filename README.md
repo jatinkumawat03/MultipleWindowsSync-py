@@ -1,14 +1,14 @@
 # MultiWindowSync-PyQt
-  * Windows GUI application developed using `PyQt5`.
-  * It demonstrates the synchronization of multiple windows using `pyqtSignal`. <br>
-  * Inspired by the [work](https://twitter.com/_nonfigurativ_/status/1727322594570027343) of Bjørn Staal.
+  * Windows GUI application developed using `PyQt5`.[cite: 4]
+  * It demonstrates the synchronization of multiple windows using `pyqtSignal`. <br>[cite: 4]
+  * Inspired by the [work](https://twitter.com/_nonfigurativ_/status/1727322594570027343) of Bjørn Staal.[cite: 4]
 
-![placeholder_mws](https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/3cc4e449-2636-42ba-b66a-2c666a3917fc)
+![placeholder_mws](https://github.com/jatinkumawat03/MultipleWindowsSync-py/assets/58925008/3cc4e449-2636-42ba-b66a-2c666a3917fc)[cite: 4]
 
-https://github.com/aniketrajnish/MultiWindowSync-PyQt/assets/58925008/e00e10e9-6373-46d8-9669-77466ee8bd90
+https://github.com/jatinkumawat03/MultipleWindowsSync-py/assets/58925008/e00e10e9-6373-46d8-9669-77466ee8bd90[cite: 4]
 
-## Usage
-* Clone the repository
+## Usage[cite: 4]
+* Clone the repository[cite: 4]
   ```
   git clone https://github.com/aniketrajnish/MultiWindowSync-PyQt.git
   ```
